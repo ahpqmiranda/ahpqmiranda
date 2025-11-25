@@ -9,25 +9,23 @@
     Hello,World!
     <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
 </h2>
-
-<img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
 <h2>
     Um pouco sobre mim...
-
+    
 </h2>
 <p align="left">
     <samp>
         <br><br>
-        Graduando de Engenharia Mecânica 7º Semestre - Universidade Federal do Pará (UFPA) <br>
+        Graduando de Engenharia Mecânica 10º Semestre - Universidade Federal do Pará (UFPA) <br>
         <br>
-        <b>Áreas de interesse: Engenharia Mecânica </b> <br>
+        <b>Áreas de interesse: Engenharia Mecânica e Mecatrônica </b> <br>
         <br>
-        Gestão de Riscos <br>
         Engenharia de Confiabilidade <br>
         Engenharia de Manutenção <br>
-        Excelência Organizacional e Operacional <br>
+        Excelência Operacional <br>
+        Gestão de Riscos <br>
         <br>
-        <b>Áreas de interesse: Ciência de Dados e Desenvolvimento de Software </b> <br>
+        <b>Áreas de interesse: Ciência de Dados, Desenvolvimento de Software e Sistemas Embarcados </b> <br>
         <br>
         Machine Learning <br>
         Deep Learning <br>
@@ -35,6 +33,7 @@
         Computer Vision <br>
         Natural Language Processing <br>
         Big Data <br>        
+        Microcontroladores <br>
         <br>
     </samp>
 </p>
