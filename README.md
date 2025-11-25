@@ -24,6 +24,7 @@
         Engenharia de Manutenção <br>
         Excelência Operacional <br>
         Gestão de Riscos <br>
+        Gestão de Cotratos <br>
         <br>
         <b>Áreas de interesse: Ciência de Dados, Desenvolvimento de Software e Sistemas Embarcados </b> <br>
         <br>
@@ -96,6 +97,9 @@
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+<br><br>
+
+<b>Outras ferramentas</b><br>
     <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/powerbi%20-%23007ACC.svg?&style=for-the-badge&logo=power-bi&logoColor=white"/>
 <br><br>
