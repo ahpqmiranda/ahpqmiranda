@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou o Alan Miranda 👋</h1>
+<h1 align="center">Olá, eu sou o Alan 👋</h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack · Ciência de Dados · Engenheiro Mecânico (UFPA, 2026)</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahpmiranda/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ahpqmiranda/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:miranda.ahpm@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
